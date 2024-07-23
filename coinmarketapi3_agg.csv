@@ -1,0 +1,841 @@
+,name,percentage change,averages
+0,Bitcoin,quote.USD.percent_change_1h,-0.27962403
+1,Bitcoin,quote.USD.percent_change_24h,-2.0899172
+2,Bitcoin,quote.USD.percent_change_7d,10.4197333
+3,Bitcoin,quote.USD.percent_change_30d,-1.71000635
+4,Bitcoin,quote.USD.percent_change_60d,-4.42436546
+5,Bitcoin,quote.USD.percent_change_90d,-1.46086569
+6,Ethereum,quote.USD.percent_change_1h,-0.03812285
+7,Ethereum,quote.USD.percent_change_24h,-0.78003839
+8,Ethereum,quote.USD.percent_change_7d,9.17368185
+9,Ethereum,quote.USD.percent_change_30d,-0.03788396
+10,Ethereum,quote.USD.percent_change_60d,10.29376467
+11,Ethereum,quote.USD.percent_change_90d,10.04493252
+12,Tether USDt,quote.USD.percent_change_1h,0.00224315
+13,Tether USDt,quote.USD.percent_change_24h,-0.02251036
+14,Tether USDt,quote.USD.percent_change_7d,-0.01340743
+15,Tether USDt,quote.USD.percent_change_30d,0.03915102
+16,Tether USDt,quote.USD.percent_change_60d,-0.01571354
+17,Tether USDt,quote.USD.percent_change_90d,-0.0256743
+18,BNB,quote.USD.percent_change_1h,-0.24113899
+19,BNB,quote.USD.percent_change_24h,-1.21542519
+20,BNB,quote.USD.percent_change_7d,7.72977563
+21,BNB,quote.USD.percent_change_30d,-2.14404934
+22,BNB,quote.USD.percent_change_60d,-1.60972876
+23,BNB,quote.USD.percent_change_90d,0.97467939
+24,Solana,quote.USD.percent_change_1h,-0.42217962
+25,Solana,quote.USD.percent_change_24h,-0.45162565
+26,Solana,quote.USD.percent_change_7d,14.11236682
+27,Solana,quote.USD.percent_change_30d,18.43795708
+28,Solana,quote.USD.percent_change_60d,-7.88456165
+29,Solana,quote.USD.percent_change_90d,7.67241967
+30,USDC,quote.USD.percent_change_1h,0.00225933
+31,USDC,quote.USD.percent_change_24h,0.01523686
+32,USDC,quote.USD.percent_change_7d,0.00453949
+33,USDC,quote.USD.percent_change_30d,0.01731015
+34,USDC,quote.USD.percent_change_60d,-0.00074822
+35,USDC,quote.USD.percent_change_90d,0.00895313
+36,XRP,quote.USD.percent_change_1h,0.06448199
+37,XRP,quote.USD.percent_change_24h,-8.51069456
+38,XRP,quote.USD.percent_change_7d,27.41527042
+39,XRP,quote.USD.percent_change_30d,18.92792352
+40,XRP,quote.USD.percent_change_60d,11.76921222
+41,XRP,quote.USD.percent_change_90d,12.38010711
+42,Toncoin,quote.USD.percent_change_1h,-0.37557358
+43,Toncoin,quote.USD.percent_change_24h,0.76185987
+44,Toncoin,quote.USD.percent_change_7d,0.36436353
+45,Toncoin,quote.USD.percent_change_30d,4.32768833
+46,Toncoin,quote.USD.percent_change_60d,13.0900157
+47,Toncoin,quote.USD.percent_change_90d,17.67853447
+48,Dogecoin,quote.USD.percent_change_1h,-1.02265325
+49,Dogecoin,quote.USD.percent_change_24h,-4.10238647
+50,Dogecoin,quote.USD.percent_change_7d,10.09989499
+51,Dogecoin,quote.USD.percent_change_30d,-1.35016162
+52,Dogecoin,quote.USD.percent_change_60d,-21.43409942
+53,Dogecoin,quote.USD.percent_change_90d,-23.25481147
+54,Cardano,quote.USD.percent_change_1h,-0.79169735
+55,Cardano,quote.USD.percent_change_24h,-4.91798945
+56,Cardano,quote.USD.percent_change_7d,6.30007604
+57,Cardano,quote.USD.percent_change_30d,13.89410229
+58,Cardano,quote.USD.percent_change_60d,-10.21471861
+59,Cardano,quote.USD.percent_change_90d,-10.62957131
+60,TRON,quote.USD.percent_change_1h,0.02463643
+61,TRON,quote.USD.percent_change_24h,-0.19365411
+62,TRON,quote.USD.percent_change_7d,-0.51314945
+63,TRON,quote.USD.percent_change_30d,16.46548277
+64,TRON,quote.USD.percent_change_60d,10.60453889
+65,TRON,quote.USD.percent_change_90d,21.30128051
+66,Avalanche,quote.USD.percent_change_1h,-0.68561446
+67,Avalanche,quote.USD.percent_change_24h,-4.28875507
+68,Avalanche,quote.USD.percent_change_7d,5.792767
+69,Avalanche,quote.USD.percent_change_30d,3.70018532
+70,Avalanche,quote.USD.percent_change_60d,-25.13555496
+71,Avalanche,quote.USD.percent_change_90d,-23.94440844
+72,Shiba Inu,quote.USD.percent_change_1h,-1.08913929
+73,Shiba Inu,quote.USD.percent_change_24h,-9.81309856
+74,Shiba Inu,quote.USD.percent_change_7d,3.7956323
+75,Shiba Inu,quote.USD.percent_change_30d,-3.29986458
+76,Shiba Inu,quote.USD.percent_change_60d,-28.99668055
+77,Shiba Inu,quote.USD.percent_change_90d,-25.6650972
+78,Polkadot,quote.USD.percent_change_1h,-0.51508201
+79,Polkadot,quote.USD.percent_change_24h,-5.1969034
+80,Polkadot,quote.USD.percent_change_7d,1.7924046
+81,Polkadot,quote.USD.percent_change_30d,7.32619778
+82,Polkadot,quote.USD.percent_change_60d,-13.06024511
+83,Polkadot,quote.USD.percent_change_90d,-10.62062665
+84,Chainlink,quote.USD.percent_change_1h,-0.62533996
+85,Chainlink,quote.USD.percent_change_24h,-4.01036192
+86,Chainlink,quote.USD.percent_change_7d,6.77690446
+87,Chainlink,quote.USD.percent_change_30d,0.49874609
+88,Chainlink,quote.USD.percent_change_60d,-20.37973138
+89,Chainlink,quote.USD.percent_change_90d,-3.37095879
+90,Bitcoin Cash,quote.USD.percent_change_1h,-0.91955343
+91,Bitcoin Cash,quote.USD.percent_change_24h,1.35630433
+92,Bitcoin Cash,quote.USD.percent_change_7d,9.64283366
+93,Bitcoin Cash,quote.USD.percent_change_30d,1.32460512
+94,Bitcoin Cash,quote.USD.percent_change_60d,-21.899529
+95,Bitcoin Cash,quote.USD.percent_change_90d,-20.60848732
+96,NEAR Protocol,quote.USD.percent_change_1h,-0.63115512
+97,NEAR Protocol,quote.USD.percent_change_24h,-3.7526572
+98,NEAR Protocol,quote.USD.percent_change_7d,20.99613409
+99,NEAR Protocol,quote.USD.percent_change_30d,32.02076528
+100,NEAR Protocol,quote.USD.percent_change_60d,-23.35584994
+101,NEAR Protocol,quote.USD.percent_change_90d,7.10402761
+102,UNUS SED LEO,quote.USD.percent_change_1h,-0.44378226
+103,UNUS SED LEO,quote.USD.percent_change_24h,-0.02772291
+104,UNUS SED LEO,quote.USD.percent_change_7d,-0.93571183
+105,UNUS SED LEO,quote.USD.percent_change_30d,0.85462943
+106,UNUS SED LEO,quote.USD.percent_change_60d,-2.23963416
+107,UNUS SED LEO,quote.USD.percent_change_90d,-0.83017409
+108,Dai,quote.USD.percent_change_1h,0.01005824
+109,Dai,quote.USD.percent_change_24h,0.00415775
+110,Dai,quote.USD.percent_change_7d,-0.0058525
+111,Dai,quote.USD.percent_change_30d,0.01488965
+112,Dai,quote.USD.percent_change_60d,0.00201851
+113,Dai,quote.USD.percent_change_90d,-0.00710875
+114,Litecoin,quote.USD.percent_change_1h,-0.47652859
+115,Litecoin,quote.USD.percent_change_24h,-2.21069432
+116,Litecoin,quote.USD.percent_change_7d,3.88980749
+117,Litecoin,quote.USD.percent_change_30d,-0.67143473
+118,Litecoin,quote.USD.percent_change_60d,-14.29073023
+119,Litecoin,quote.USD.percent_change_90d,-12.77435623
+0,Bitcoin,quote.USD.percent_change_1h,-0.0026081
+1,Bitcoin,quote.USD.percent_change_24h,-1.81282031
+2,Bitcoin,quote.USD.percent_change_7d,10.53701638
+3,Bitcoin,quote.USD.percent_change_30d,-1.4041389
+4,Bitcoin,quote.USD.percent_change_60d,-4.25309431
+5,Bitcoin,quote.USD.percent_change_90d,-1.26008793
+6,Ethereum,quote.USD.percent_change_1h,0.01198067
+7,Ethereum,quote.USD.percent_change_24h,-0.65516818
+8,Ethereum,quote.USD.percent_change_7d,9.23253562
+9,Ethereum,quote.USD.percent_change_30d,0.17219584
+10,Ethereum,quote.USD.percent_change_60d,10.48692619
+11,Ethereum,quote.USD.percent_change_90d,10.15377909
+12,Tether USDt,quote.USD.percent_change_1h,0.03166438
+13,Tether USDt,quote.USD.percent_change_24h,0.01357317
+14,Tether USDt,quote.USD.percent_change_7d,0.02315058
+15,Tether USDt,quote.USD.percent_change_30d,0.06199257
+16,Tether USDt,quote.USD.percent_change_60d,0.02237093
+17,Tether USDt,quote.USD.percent_change_90d,-0.0093887
+18,BNB,quote.USD.percent_change_1h,-0.24196977
+19,BNB,quote.USD.percent_change_24h,-1.17754154
+20,BNB,quote.USD.percent_change_7d,7.71686583
+21,BNB,quote.USD.percent_change_30d,-1.99047107
+22,BNB,quote.USD.percent_change_60d,-1.57120896
+23,BNB,quote.USD.percent_change_90d,1.06680796
+24,Solana,quote.USD.percent_change_1h,-0.62393258
+25,Solana,quote.USD.percent_change_24h,-0.53230846
+26,Solana,quote.USD.percent_change_7d,13.98080129
+27,Solana,quote.USD.percent_change_30d,18.76648918
+28,Solana,quote.USD.percent_change_60d,-7.99329
+29,Solana,quote.USD.percent_change_90d,7.65427952
+30,USDC,quote.USD.percent_change_1h,-0.01025561
+31,USDC,quote.USD.percent_change_24h,-0.00168649
+32,USDC,quote.USD.percent_change_7d,0.00362344
+33,USDC,quote.USD.percent_change_30d,-0.00512177
+34,USDC,quote.USD.percent_change_60d,-0.00472255
+35,USDC,quote.USD.percent_change_90d,-0.01040386
+36,XRP,quote.USD.percent_change_1h,-0.01531951
+37,XRP,quote.USD.percent_change_24h,-8.41802869
+38,XRP,quote.USD.percent_change_7d,27.30184977
+39,XRP,quote.USD.percent_change_30d,18.96108782
+40,XRP,quote.USD.percent_change_60d,11.67873297
+41,XRP,quote.USD.percent_change_90d,12.40460532
+42,Toncoin,quote.USD.percent_change_1h,-0.34471129
+43,Toncoin,quote.USD.percent_change_24h,0.79295462
+44,Toncoin,quote.USD.percent_change_7d,0.36883012
+45,Toncoin,quote.USD.percent_change_30d,4.36873994
+46,Toncoin,quote.USD.percent_change_60d,13.16148449
+47,Toncoin,quote.USD.percent_change_90d,17.73334464
+48,Dogecoin,quote.USD.percent_change_1h,-0.98823825
+49,Dogecoin,quote.USD.percent_change_24h,-4.09425921
+50,Dogecoin,quote.USD.percent_change_7d,10.16456396
+51,Dogecoin,quote.USD.percent_change_30d,-1.13093768
+52,Dogecoin,quote.USD.percent_change_60d,-21.37442884
+53,Dogecoin,quote.USD.percent_change_90d,-23.21402802
+54,Cardano,quote.USD.percent_change_1h,-0.91090743
+55,Cardano,quote.USD.percent_change_24h,-4.9853266
+56,Cardano,quote.USD.percent_change_7d,6.26397021
+57,Cardano,quote.USD.percent_change_30d,13.92920328
+58,Cardano,quote.USD.percent_change_60d,-10.3194578
+59,Cardano,quote.USD.percent_change_90d,-10.64530156
+60,TRON,quote.USD.percent_change_1h,-0.03382527
+61,TRON,quote.USD.percent_change_24h,-0.23703239
+62,TRON,quote.USD.percent_change_7d,-0.60912524
+63,TRON,quote.USD.percent_change_30d,16.47211357
+64,TRON,quote.USD.percent_change_60d,10.53549603
+65,TRON,quote.USD.percent_change_90d,21.26572186
+66,Avalanche,quote.USD.percent_change_1h,-0.7114894
+67,Avalanche,quote.USD.percent_change_24h,-4.35646636
+68,Avalanche,quote.USD.percent_change_7d,5.77444687
+69,Avalanche,quote.USD.percent_change_30d,3.88730278
+70,Avalanche,quote.USD.percent_change_60d,-25.14076333
+71,Avalanche,quote.USD.percent_change_90d,-23.90769267
+72,Shiba Inu,quote.USD.percent_change_1h,-1.18436851
+73,Shiba Inu,quote.USD.percent_change_24h,-9.937851
+74,Shiba Inu,quote.USD.percent_change_7d,3.67331159
+75,Shiba Inu,quote.USD.percent_change_30d,-3.1896623
+76,Shiba Inu,quote.USD.percent_change_60d,-29.00483526
+77,Shiba Inu,quote.USD.percent_change_90d,-25.68511549
+78,Polkadot,quote.USD.percent_change_1h,-0.56145744
+79,Polkadot,quote.USD.percent_change_24h,-5.22142036
+80,Polkadot,quote.USD.percent_change_7d,1.80173494
+81,Polkadot,quote.USD.percent_change_30d,7.33956932
+82,Polkadot,quote.USD.percent_change_60d,-13.069832
+83,Polkadot,quote.USD.percent_change_90d,-10.5993584
+84,Chainlink,quote.USD.percent_change_1h,-0.6740159
+85,Chainlink,quote.USD.percent_change_24h,-4.05879339
+86,Chainlink,quote.USD.percent_change_7d,6.81431534
+87,Chainlink,quote.USD.percent_change_30d,0.36039496
+88,Chainlink,quote.USD.percent_change_60d,-20.30544371
+89,Chainlink,quote.USD.percent_change_90d,-3.35339854
+90,Bitcoin Cash,quote.USD.percent_change_1h,-0.82857425
+91,Bitcoin Cash,quote.USD.percent_change_24h,1.03010154
+92,Bitcoin Cash,quote.USD.percent_change_7d,9.5813838
+93,Bitcoin Cash,quote.USD.percent_change_30d,1.32798192
+94,Bitcoin Cash,quote.USD.percent_change_60d,-21.88589407
+95,Bitcoin Cash,quote.USD.percent_change_90d,-20.62129212
+96,NEAR Protocol,quote.USD.percent_change_1h,-0.64811348
+97,NEAR Protocol,quote.USD.percent_change_24h,-3.6720332
+98,NEAR Protocol,quote.USD.percent_change_7d,20.94966634
+99,NEAR Protocol,quote.USD.percent_change_30d,32.57508555
+100,NEAR Protocol,quote.USD.percent_change_60d,-23.35740268
+101,NEAR Protocol,quote.USD.percent_change_90d,7.10182645
+102,UNUS SED LEO,quote.USD.percent_change_1h,-0.52551589
+103,UNUS SED LEO,quote.USD.percent_change_24h,-0.19201855
+104,UNUS SED LEO,quote.USD.percent_change_7d,-0.98252591
+105,UNUS SED LEO,quote.USD.percent_change_30d,0.75182436
+106,UNUS SED LEO,quote.USD.percent_change_60d,-2.22178257
+107,UNUS SED LEO,quote.USD.percent_change_90d,-0.90258883
+108,Dai,quote.USD.percent_change_1h,0.00313242
+109,Dai,quote.USD.percent_change_24h,-0.00699545
+110,Dai,quote.USD.percent_change_7d,-0.00982234
+111,Dai,quote.USD.percent_change_30d,0.01162752
+112,Dai,quote.USD.percent_change_60d,-0.01483302
+113,Dai,quote.USD.percent_change_90d,-0.00711105
+114,Litecoin,quote.USD.percent_change_1h,-0.40790736
+115,Litecoin,quote.USD.percent_change_24h,-2.1621499
+116,Litecoin,quote.USD.percent_change_7d,3.97982376
+117,Litecoin,quote.USD.percent_change_30d,-0.57070987
+118,Litecoin,quote.USD.percent_change_60d,-14.23004572
+119,Litecoin,quote.USD.percent_change_90d,-12.72114019
+0,Bitcoin,quote.USD.percent_change_1h,-0.0026081
+1,Bitcoin,quote.USD.percent_change_24h,-1.81282031
+2,Bitcoin,quote.USD.percent_change_7d,10.53701638
+3,Bitcoin,quote.USD.percent_change_30d,-1.4041389
+4,Bitcoin,quote.USD.percent_change_60d,-4.25309431
+5,Bitcoin,quote.USD.percent_change_90d,-1.26008793
+6,Ethereum,quote.USD.percent_change_1h,0.01198067
+7,Ethereum,quote.USD.percent_change_24h,-0.65516818
+8,Ethereum,quote.USD.percent_change_7d,9.23253562
+9,Ethereum,quote.USD.percent_change_30d,0.17219584
+10,Ethereum,quote.USD.percent_change_60d,10.48692619
+11,Ethereum,quote.USD.percent_change_90d,10.15377909
+12,Tether USDt,quote.USD.percent_change_1h,0.03166438
+13,Tether USDt,quote.USD.percent_change_24h,0.01357317
+14,Tether USDt,quote.USD.percent_change_7d,0.02315058
+15,Tether USDt,quote.USD.percent_change_30d,0.06199257
+16,Tether USDt,quote.USD.percent_change_60d,0.02237093
+17,Tether USDt,quote.USD.percent_change_90d,-0.0093887
+18,BNB,quote.USD.percent_change_1h,-0.24196977
+19,BNB,quote.USD.percent_change_24h,-1.17754154
+20,BNB,quote.USD.percent_change_7d,7.71686583
+21,BNB,quote.USD.percent_change_30d,-1.99047107
+22,BNB,quote.USD.percent_change_60d,-1.57120896
+23,BNB,quote.USD.percent_change_90d,1.06680796
+24,Solana,quote.USD.percent_change_1h,-0.62393258
+25,Solana,quote.USD.percent_change_24h,-0.53230846
+26,Solana,quote.USD.percent_change_7d,13.98080129
+27,Solana,quote.USD.percent_change_30d,18.76648918
+28,Solana,quote.USD.percent_change_60d,-7.99329
+29,Solana,quote.USD.percent_change_90d,7.65427952
+30,USDC,quote.USD.percent_change_1h,-0.01025561
+31,USDC,quote.USD.percent_change_24h,-0.00168649
+32,USDC,quote.USD.percent_change_7d,0.00362344
+33,USDC,quote.USD.percent_change_30d,-0.00512177
+34,USDC,quote.USD.percent_change_60d,-0.00472255
+35,USDC,quote.USD.percent_change_90d,-0.01040386
+36,XRP,quote.USD.percent_change_1h,-0.01531951
+37,XRP,quote.USD.percent_change_24h,-8.41802869
+38,XRP,quote.USD.percent_change_7d,27.30184977
+39,XRP,quote.USD.percent_change_30d,18.96108782
+40,XRP,quote.USD.percent_change_60d,11.67873297
+41,XRP,quote.USD.percent_change_90d,12.40460532
+42,Toncoin,quote.USD.percent_change_1h,-0.34471129
+43,Toncoin,quote.USD.percent_change_24h,0.79295462
+44,Toncoin,quote.USD.percent_change_7d,0.36883012
+45,Toncoin,quote.USD.percent_change_30d,4.36873994
+46,Toncoin,quote.USD.percent_change_60d,13.16148449
+47,Toncoin,quote.USD.percent_change_90d,17.73334464
+48,Dogecoin,quote.USD.percent_change_1h,-0.98823825
+49,Dogecoin,quote.USD.percent_change_24h,-4.09425921
+50,Dogecoin,quote.USD.percent_change_7d,10.16456396
+51,Dogecoin,quote.USD.percent_change_30d,-1.13093768
+52,Dogecoin,quote.USD.percent_change_60d,-21.37442884
+53,Dogecoin,quote.USD.percent_change_90d,-23.21402802
+54,Cardano,quote.USD.percent_change_1h,-0.91090743
+55,Cardano,quote.USD.percent_change_24h,-4.9853266
+56,Cardano,quote.USD.percent_change_7d,6.26397021
+57,Cardano,quote.USD.percent_change_30d,13.92920328
+58,Cardano,quote.USD.percent_change_60d,-10.3194578
+59,Cardano,quote.USD.percent_change_90d,-10.64530156
+60,TRON,quote.USD.percent_change_1h,-0.03382527
+61,TRON,quote.USD.percent_change_24h,-0.23703239
+62,TRON,quote.USD.percent_change_7d,-0.60912524
+63,TRON,quote.USD.percent_change_30d,16.47211357
+64,TRON,quote.USD.percent_change_60d,10.53549603
+65,TRON,quote.USD.percent_change_90d,21.26572186
+66,Avalanche,quote.USD.percent_change_1h,-0.7114894
+67,Avalanche,quote.USD.percent_change_24h,-4.35646636
+68,Avalanche,quote.USD.percent_change_7d,5.77444687
+69,Avalanche,quote.USD.percent_change_30d,3.88730278
+70,Avalanche,quote.USD.percent_change_60d,-25.14076333
+71,Avalanche,quote.USD.percent_change_90d,-23.90769267
+72,Shiba Inu,quote.USD.percent_change_1h,-1.18436851
+73,Shiba Inu,quote.USD.percent_change_24h,-9.937851
+74,Shiba Inu,quote.USD.percent_change_7d,3.67331159
+75,Shiba Inu,quote.USD.percent_change_30d,-3.1896623
+76,Shiba Inu,quote.USD.percent_change_60d,-29.00483526
+77,Shiba Inu,quote.USD.percent_change_90d,-25.68511549
+78,Polkadot,quote.USD.percent_change_1h,-0.56145744
+79,Polkadot,quote.USD.percent_change_24h,-5.22142036
+80,Polkadot,quote.USD.percent_change_7d,1.80173494
+81,Polkadot,quote.USD.percent_change_30d,7.33956932
+82,Polkadot,quote.USD.percent_change_60d,-13.069832
+83,Polkadot,quote.USD.percent_change_90d,-10.5993584
+84,Chainlink,quote.USD.percent_change_1h,-0.6740159
+85,Chainlink,quote.USD.percent_change_24h,-4.05879339
+86,Chainlink,quote.USD.percent_change_7d,6.81431534
+87,Chainlink,quote.USD.percent_change_30d,0.36039496
+88,Chainlink,quote.USD.percent_change_60d,-20.30544371
+89,Chainlink,quote.USD.percent_change_90d,-3.35339854
+90,Bitcoin Cash,quote.USD.percent_change_1h,-0.82857425
+91,Bitcoin Cash,quote.USD.percent_change_24h,1.03010154
+92,Bitcoin Cash,quote.USD.percent_change_7d,9.5813838
+93,Bitcoin Cash,quote.USD.percent_change_30d,1.32798192
+94,Bitcoin Cash,quote.USD.percent_change_60d,-21.88589407
+95,Bitcoin Cash,quote.USD.percent_change_90d,-20.62129212
+96,NEAR Protocol,quote.USD.percent_change_1h,-0.64811348
+97,NEAR Protocol,quote.USD.percent_change_24h,-3.6720332
+98,NEAR Protocol,quote.USD.percent_change_7d,20.94966634
+99,NEAR Protocol,quote.USD.percent_change_30d,32.57508555
+100,NEAR Protocol,quote.USD.percent_change_60d,-23.35740268
+101,NEAR Protocol,quote.USD.percent_change_90d,7.10182645
+102,UNUS SED LEO,quote.USD.percent_change_1h,-0.52551589
+103,UNUS SED LEO,quote.USD.percent_change_24h,-0.19201855
+104,UNUS SED LEO,quote.USD.percent_change_7d,-0.98252591
+105,UNUS SED LEO,quote.USD.percent_change_30d,0.75182436
+106,UNUS SED LEO,quote.USD.percent_change_60d,-2.22178257
+107,UNUS SED LEO,quote.USD.percent_change_90d,-0.90258883
+108,Dai,quote.USD.percent_change_1h,0.00313242
+109,Dai,quote.USD.percent_change_24h,-0.00699545
+110,Dai,quote.USD.percent_change_7d,-0.00982234
+111,Dai,quote.USD.percent_change_30d,0.01162752
+112,Dai,quote.USD.percent_change_60d,-0.01483302
+113,Dai,quote.USD.percent_change_90d,-0.00711105
+114,Litecoin,quote.USD.percent_change_1h,-0.40790736
+115,Litecoin,quote.USD.percent_change_24h,-2.1621499
+116,Litecoin,quote.USD.percent_change_7d,3.97982376
+117,Litecoin,quote.USD.percent_change_30d,-0.57070987
+118,Litecoin,quote.USD.percent_change_60d,-14.23004572
+119,Litecoin,quote.USD.percent_change_90d,-12.72114019
+0,Bitcoin,quote.USD.percent_change_1h,-0.0026081
+1,Bitcoin,quote.USD.percent_change_24h,-1.81282031
+2,Bitcoin,quote.USD.percent_change_7d,10.53701638
+3,Bitcoin,quote.USD.percent_change_30d,-1.4041389
+4,Bitcoin,quote.USD.percent_change_60d,-4.25309431
+5,Bitcoin,quote.USD.percent_change_90d,-1.26008793
+6,Ethereum,quote.USD.percent_change_1h,0.01198067
+7,Ethereum,quote.USD.percent_change_24h,-0.65516818
+8,Ethereum,quote.USD.percent_change_7d,9.23253562
+9,Ethereum,quote.USD.percent_change_30d,0.17219584
+10,Ethereum,quote.USD.percent_change_60d,10.48692619
+11,Ethereum,quote.USD.percent_change_90d,10.15377909
+12,Tether USDt,quote.USD.percent_change_1h,0.03166438
+13,Tether USDt,quote.USD.percent_change_24h,0.01357317
+14,Tether USDt,quote.USD.percent_change_7d,0.02315058
+15,Tether USDt,quote.USD.percent_change_30d,0.06199257
+16,Tether USDt,quote.USD.percent_change_60d,0.02237093
+17,Tether USDt,quote.USD.percent_change_90d,-0.0093887
+18,BNB,quote.USD.percent_change_1h,-0.24196977
+19,BNB,quote.USD.percent_change_24h,-1.17754154
+20,BNB,quote.USD.percent_change_7d,7.71686583
+21,BNB,quote.USD.percent_change_30d,-1.99047107
+22,BNB,quote.USD.percent_change_60d,-1.57120896
+23,BNB,quote.USD.percent_change_90d,1.06680796
+24,Solana,quote.USD.percent_change_1h,-0.62393258
+25,Solana,quote.USD.percent_change_24h,-0.53230846
+26,Solana,quote.USD.percent_change_7d,13.98080129
+27,Solana,quote.USD.percent_change_30d,18.76648918
+28,Solana,quote.USD.percent_change_60d,-7.99329
+29,Solana,quote.USD.percent_change_90d,7.65427952
+30,USDC,quote.USD.percent_change_1h,-0.01025561
+31,USDC,quote.USD.percent_change_24h,-0.00168649
+32,USDC,quote.USD.percent_change_7d,0.00362344
+33,USDC,quote.USD.percent_change_30d,-0.00512177
+34,USDC,quote.USD.percent_change_60d,-0.00472255
+35,USDC,quote.USD.percent_change_90d,-0.01040386
+36,XRP,quote.USD.percent_change_1h,-0.01531951
+37,XRP,quote.USD.percent_change_24h,-8.41802869
+38,XRP,quote.USD.percent_change_7d,27.30184977
+39,XRP,quote.USD.percent_change_30d,18.96108782
+40,XRP,quote.USD.percent_change_60d,11.67873297
+41,XRP,quote.USD.percent_change_90d,12.40460532
+42,Toncoin,quote.USD.percent_change_1h,-0.34471129
+43,Toncoin,quote.USD.percent_change_24h,0.79295462
+44,Toncoin,quote.USD.percent_change_7d,0.36883012
+45,Toncoin,quote.USD.percent_change_30d,4.36873994
+46,Toncoin,quote.USD.percent_change_60d,13.16148449
+47,Toncoin,quote.USD.percent_change_90d,17.73334464
+48,Dogecoin,quote.USD.percent_change_1h,-0.98823825
+49,Dogecoin,quote.USD.percent_change_24h,-4.09425921
+50,Dogecoin,quote.USD.percent_change_7d,10.16456396
+51,Dogecoin,quote.USD.percent_change_30d,-1.13093768
+52,Dogecoin,quote.USD.percent_change_60d,-21.37442884
+53,Dogecoin,quote.USD.percent_change_90d,-23.21402802
+54,Cardano,quote.USD.percent_change_1h,-0.91090743
+55,Cardano,quote.USD.percent_change_24h,-4.9853266
+56,Cardano,quote.USD.percent_change_7d,6.26397021
+57,Cardano,quote.USD.percent_change_30d,13.92920328
+58,Cardano,quote.USD.percent_change_60d,-10.3194578
+59,Cardano,quote.USD.percent_change_90d,-10.64530156
+60,TRON,quote.USD.percent_change_1h,-0.03382527
+61,TRON,quote.USD.percent_change_24h,-0.23703239
+62,TRON,quote.USD.percent_change_7d,-0.60912524
+63,TRON,quote.USD.percent_change_30d,16.47211357
+64,TRON,quote.USD.percent_change_60d,10.53549603
+65,TRON,quote.USD.percent_change_90d,21.26572186
+66,Avalanche,quote.USD.percent_change_1h,-0.7114894
+67,Avalanche,quote.USD.percent_change_24h,-4.35646636
+68,Avalanche,quote.USD.percent_change_7d,5.77444687
+69,Avalanche,quote.USD.percent_change_30d,3.88730278
+70,Avalanche,quote.USD.percent_change_60d,-25.14076333
+71,Avalanche,quote.USD.percent_change_90d,-23.90769267
+72,Shiba Inu,quote.USD.percent_change_1h,-1.18436851
+73,Shiba Inu,quote.USD.percent_change_24h,-9.937851
+74,Shiba Inu,quote.USD.percent_change_7d,3.67331159
+75,Shiba Inu,quote.USD.percent_change_30d,-3.1896623
+76,Shiba Inu,quote.USD.percent_change_60d,-29.00483526
+77,Shiba Inu,quote.USD.percent_change_90d,-25.68511549
+78,Polkadot,quote.USD.percent_change_1h,-0.56145744
+79,Polkadot,quote.USD.percent_change_24h,-5.22142036
+80,Polkadot,quote.USD.percent_change_7d,1.80173494
+81,Polkadot,quote.USD.percent_change_30d,7.33956932
+82,Polkadot,quote.USD.percent_change_60d,-13.069832
+83,Polkadot,quote.USD.percent_change_90d,-10.5993584
+84,Chainlink,quote.USD.percent_change_1h,-0.6740159
+85,Chainlink,quote.USD.percent_change_24h,-4.05879339
+86,Chainlink,quote.USD.percent_change_7d,6.81431534
+87,Chainlink,quote.USD.percent_change_30d,0.36039496
+88,Chainlink,quote.USD.percent_change_60d,-20.30544371
+89,Chainlink,quote.USD.percent_change_90d,-3.35339854
+90,Bitcoin Cash,quote.USD.percent_change_1h,-0.82857425
+91,Bitcoin Cash,quote.USD.percent_change_24h,1.03010154
+92,Bitcoin Cash,quote.USD.percent_change_7d,9.5813838
+93,Bitcoin Cash,quote.USD.percent_change_30d,1.32798192
+94,Bitcoin Cash,quote.USD.percent_change_60d,-21.88589407
+95,Bitcoin Cash,quote.USD.percent_change_90d,-20.62129212
+96,NEAR Protocol,quote.USD.percent_change_1h,-0.64811348
+97,NEAR Protocol,quote.USD.percent_change_24h,-3.6720332
+98,NEAR Protocol,quote.USD.percent_change_7d,20.94966634
+99,NEAR Protocol,quote.USD.percent_change_30d,32.57508555
+100,NEAR Protocol,quote.USD.percent_change_60d,-23.35740268
+101,NEAR Protocol,quote.USD.percent_change_90d,7.10182645
+102,UNUS SED LEO,quote.USD.percent_change_1h,-0.52551589
+103,UNUS SED LEO,quote.USD.percent_change_24h,-0.19201855
+104,UNUS SED LEO,quote.USD.percent_change_7d,-0.98252591
+105,UNUS SED LEO,quote.USD.percent_change_30d,0.75182436
+106,UNUS SED LEO,quote.USD.percent_change_60d,-2.22178257
+107,UNUS SED LEO,quote.USD.percent_change_90d,-0.90258883
+108,Dai,quote.USD.percent_change_1h,0.00313242
+109,Dai,quote.USD.percent_change_24h,-0.00699545
+110,Dai,quote.USD.percent_change_7d,-0.00982234
+111,Dai,quote.USD.percent_change_30d,0.01162752
+112,Dai,quote.USD.percent_change_60d,-0.01483302
+113,Dai,quote.USD.percent_change_90d,-0.00711105
+114,Litecoin,quote.USD.percent_change_1h,-0.40790736
+115,Litecoin,quote.USD.percent_change_24h,-2.1621499
+116,Litecoin,quote.USD.percent_change_7d,3.97982376
+117,Litecoin,quote.USD.percent_change_30d,-0.57070987
+118,Litecoin,quote.USD.percent_change_60d,-14.23004572
+119,Litecoin,quote.USD.percent_change_90d,-12.72114019
+0,Bitcoin,1h,0.37233067
+1,Bitcoin,24h,-1.69880781
+2,Bitcoin,7d,10.53712381
+3,Bitcoin,30d,-1.20642611
+4,Bitcoin,60d,-3.9580165
+5,Bitcoin,90d,-0.8817224
+6,Ethereum,1h,0.4347222
+7,Ethereum,24h,-0.39990872
+8,Ethereum,7d,9.37099372
+9,Ethereum,30d,0.29760501
+10,Ethereum,60d,11.17949137
+11,Ethereum,90d,10.4795825
+12,Tether USDt,1h,-0.03653828
+13,Tether USDt,24h,-0.03283563
+14,Tether USDt,7d,-0.0499833
+15,Tether USDt,30d,0.02805011
+16,Tether USDt,60d,-0.05655173
+17,Tether USDt,90d,-0.04068405
+18,BNB,1h,0.23594895
+19,BNB,24h,-0.85799309
+20,BNB,7d,7.66279633
+21,BNB,30d,-1.76857836
+22,BNB,60d,-1.15917679
+23,BNB,90d,1.47853446
+24,Solana,1h,0.80827006
+25,Solana,24h,-0.02163216
+26,Solana,7d,13.95891024
+27,Solana,30d,19.39797317
+28,Solana,60d,-7.22183608
+29,Solana,90d,8.72026874
+30,USDC,1h,-0.03342814
+31,USDC,24h,-0.00331142
+32,USDC,7d,-0.03889959
+33,USDC,30d,0.00658249
+34,USDC,60d,-0.02189825
+35,USDC,90d,0.00529939
+36,XRP,1h,0.56646677
+37,XRP,24h,-7.64162989
+38,XRP,7d,27.0569754
+39,XRP,30d,19.05814333
+40,XRP,60d,12.03620391
+41,XRP,90d,12.70394351
+42,Toncoin,1h,-0.38271433
+43,Toncoin,24h,0.81141239
+44,Toncoin,7d,0.26978273
+45,Toncoin,30d,4.06265487
+46,Toncoin,60d,13.52548827
+47,Toncoin,90d,17.51458642
+48,Dogecoin,1h,-0.14093421
+49,Dogecoin,24h,-3.68096556
+50,Dogecoin,7d,10.24966987
+51,Dogecoin,30d,-0.79610453
+52,Dogecoin,60d,-20.81301381
+53,Dogecoin,90d,-22.82266915
+54,Cardano,1h,-0.36773535
+55,Cardano,24h,-4.39852223
+56,Cardano,7d,6.19220022
+57,Cardano,30d,14.21852387
+58,Cardano,60d,-9.75736817
+59,Cardano,90d,-10.16700485
+60,TRON,1h,0.17650421
+61,TRON,24h,-0.0217626
+62,TRON,7d,-0.5912847
+63,TRON,30d,16.64771989
+64,TRON,60d,10.65915742
+65,TRON,90d,21.43540191
+66,Avalanche,1h,0.14648832
+67,Avalanche,24h,-3.73273798
+68,Avalanche,7d,5.99766121
+69,Avalanche,30d,4.24551188
+70,Avalanche,60d,-24.54691317
+71,Avalanche,90d,-23.35959017
+72,Shiba Inu,1h,-0.28437876
+73,Shiba Inu,24h,-9.35087832
+74,Shiba Inu,7d,3.96221754
+75,Shiba Inu,30d,-2.79208225
+76,Shiba Inu,60d,-28.44446877
+77,Shiba Inu,90d,-25.12766267
+78,Polkadot,1h,0.14322388
+79,Polkadot,24h,-4.56547679
+80,Polkadot,7d,2.10541064
+81,Polkadot,30d,8.16233381
+82,Polkadot,60d,-12.21845913
+83,Polkadot,90d,-9.86986246
+84,Chainlink,1h,0.30820688
+85,Chainlink,24h,-3.25306277
+86,Chainlink,7d,7.39620232
+87,Chainlink,30d,0.76507726
+88,Chainlink,60d,-19.28282474
+89,Chainlink,90d,-2.70229239
+90,Bitcoin Cash,1h,-0.30727685
+91,Bitcoin Cash,24h,1.4575546
+92,Bitcoin Cash,7d,9.61069037
+93,Bitcoin Cash,30d,1.48641499
+94,Bitcoin Cash,60d,-21.46584223
+95,Bitcoin Cash,90d,-20.18485449
+96,NEAR Protocol,1h,0.42260838
+97,NEAR Protocol,24h,-2.47044135
+98,NEAR Protocol,7d,21.74145259
+99,NEAR Protocol,30d,33.36146226
+100,NEAR Protocol,60d,-22.69779574
+101,NEAR Protocol,90d,8.26314127
+102,UNUS SED LEO,1h,0.30376159
+103,UNUS SED LEO,24h,0.70601624
+104,UNUS SED LEO,7d,-0.56117784
+105,UNUS SED LEO,30d,1.51895115
+106,UNUS SED LEO,60d,-1.55903335
+107,UNUS SED LEO,90d,-0.09229467
+108,Dai,1h,0.01250117
+109,Dai,24h,-0.0131408
+110,Dai,7d,-0.04059981
+111,Dai,30d,0.00618371
+112,Dai,60d,-0.02072568
+113,Dai,90d,-0.01400293
+114,Litecoin,1h,0.06030996
+115,Litecoin,24h,-2.03109969
+116,Litecoin,7d,3.87142984
+117,Litecoin,30d,-0.38349087
+118,Litecoin,60d,-13.83783871
+119,Litecoin,90d,-12.4448978
+0,Bitcoin,1h,0.29233248
+1,Bitcoin,24h,-1.69135919
+2,Bitcoin,7d,10.69973051
+3,Bitcoin,30d,-0.76667188
+4,Bitcoin,60d,-3.62715583
+5,Bitcoin,90d,-0.9934438
+6,Ethereum,1h,0.37075601
+7,Ethereum,24h,-0.55802598
+8,Ethereum,7d,9.41742481
+9,Ethereum,30d,0.31540971
+10,Ethereum,60d,11.22176474
+11,Ethereum,90d,9.94866945
+12,Tether USDt,1h,-0.01084717
+13,Tether USDt,24h,-0.03316425
+14,Tether USDt,7d,-0.029172
+15,Tether USDt,30d,0.02629907
+16,Tether USDt,60d,-0.03639371
+17,Tether USDt,90d,-0.07553468
+18,BNB,1h,0.28616391
+19,BNB,24h,-0.93542926
+20,BNB,7d,7.82116244
+21,BNB,30d,-1.7944026
+22,BNB,60d,-0.93296952
+23,BNB,90d,1.39738613
+24,Solana,1h,0.71870215
+25,Solana,24h,-0.12061006
+26,Solana,7d,14.50259896
+27,Solana,30d,19.68209743
+28,Solana,60d,-7.27556226
+29,Solana,90d,8.61227071
+30,USDC,1h,-0.00451013
+31,USDC,24h,-0.0091214
+32,USDC,7d,-0.00268429
+33,USDC,30d,0.00123097
+34,USDC,60d,-0.00648345
+35,USDC,90d,-0.05136791
+36,XRP,1h,0.7355271
+37,XRP,24h,-7.44079981
+38,XRP,7d,27.20821109
+39,XRP,30d,18.75755357
+40,XRP,60d,12.15364202
+41,XRP,90d,12.55277717
+42,Toncoin,1h,-0.27356977
+43,Toncoin,24h,0.90769418
+44,Toncoin,7d,0.28774823
+45,Toncoin,30d,4.0117818
+46,Toncoin,60d,13.87159322
+47,Toncoin,90d,17.66990454
+48,Dogecoin,1h,-0.10793892
+49,Dogecoin,24h,-3.79069891
+50,Dogecoin,7d,10.43866358
+51,Dogecoin,30d,-0.87524439
+52,Dogecoin,60d,-20.50904096
+53,Dogecoin,90d,-22.96447625
+54,Cardano,1h,-0.15481303
+55,Cardano,24h,-4.64789692
+56,Cardano,7d,6.35651439
+57,Cardano,30d,13.9195265
+58,Cardano,60d,-9.75911043
+59,Cardano,90d,-10.36221268
+60,TRON,1h,0.3776941
+61,TRON,24h,0.21554951
+62,TRON,7d,-0.40824795
+63,TRON,30d,16.82851229
+64,TRON,60d,10.88738576
+65,TRON,90d,21.629335
+66,Avalanche,1h,0.3458007
+67,Avalanche,24h,-3.85822415
+68,Avalanche,7d,6.14501706
+69,Avalanche,30d,4.14287585
+70,Avalanche,60d,-24.42316865
+71,Avalanche,90d,-23.52692473
+72,Shiba Inu,1h,0.03732602
+73,Shiba Inu,24h,-9.50287424
+74,Shiba Inu,7d,3.96725852
+75,Shiba Inu,30d,-2.96536826
+76,Shiba Inu,60d,-28.26819539
+77,Shiba Inu,90d,-25.29827974
+78,Polkadot,1h,0.16974952
+79,Polkadot,24h,-4.58078403
+80,Polkadot,7d,2.32720597
+81,Polkadot,30d,8.0264836
+82,Polkadot,60d,-12.08984682
+83,Polkadot,90d,-10.05065815
+84,Chainlink,1h,0.56297105
+85,Chainlink,24h,-3.19016207
+86,Chainlink,7d,7.6367747
+87,Chainlink,30d,0.48200759
+88,Chainlink,60d,-18.98660095
+89,Chainlink,90d,-2.94233932
+90,Bitcoin Cash,1h,0.07492067
+91,Bitcoin Cash,24h,1.67097859
+92,Bitcoin Cash,7d,9.98769559
+93,Bitcoin Cash,30d,1.64254738
+94,Bitcoin Cash,60d,-20.95082067
+95,Bitcoin Cash,90d,-20.21554654
+96,NEAR Protocol,1h,0.46069621
+97,NEAR Protocol,24h,-2.50813143
+98,NEAR Protocol,7d,21.91299323
+99,NEAR Protocol,30d,32.36088654
+100,NEAR Protocol,60d,-22.58601464
+101,NEAR Protocol,90d,7.87558449
+102,UNUS SED LEO,1h,-0.15790992
+103,UNUS SED LEO,24h,0.50647532
+104,UNUS SED LEO,7d,-0.62375263
+105,UNUS SED LEO,30d,1.2055345
+106,UNUS SED LEO,60d,-1.5179492
+107,UNUS SED LEO,90d,-0.23936875
+108,Dai,1h,0.01067611
+109,Dai,24h,-0.01476323
+110,Dai,7d,-0.01368066
+111,Dai,30d,0.00045921
+112,Dai,60d,-0.01534593
+113,Dai,90d,-0.02220774
+114,Litecoin,1h,0.11649863
+115,Litecoin,24h,-2.012709
+116,Litecoin,7d,3.9432119
+117,Litecoin,30d,-0.36920469
+118,Litecoin,60d,-13.77265367
+119,Litecoin,90d,-12.52029096
+0,Bitcoin,1h,0.29233248
+1,Bitcoin,24h,-1.69135919
+2,Bitcoin,7d,10.69973051
+3,Bitcoin,30d,-0.76667188
+4,Bitcoin,60d,-3.62715583
+5,Bitcoin,90d,-0.9934438
+6,Ethereum,1h,0.37075601
+7,Ethereum,24h,-0.55802598
+8,Ethereum,7d,9.41742481
+9,Ethereum,30d,0.31540971
+10,Ethereum,60d,11.22176474
+11,Ethereum,90d,9.94866945
+12,Tether USDt,1h,-0.01084717
+13,Tether USDt,24h,-0.03316425
+14,Tether USDt,7d,-0.029172
+15,Tether USDt,30d,0.02629907
+16,Tether USDt,60d,-0.03639371
+17,Tether USDt,90d,-0.07553468
+18,BNB,1h,0.28616391
+19,BNB,24h,-0.93542926
+20,BNB,7d,7.82116244
+21,BNB,30d,-1.7944026
+22,BNB,60d,-0.93296952
+23,BNB,90d,1.39738613
+24,Solana,1h,0.71870215
+25,Solana,24h,-0.12061006
+26,Solana,7d,14.50259896
+27,Solana,30d,19.68209743
+28,Solana,60d,-7.27556226
+29,Solana,90d,8.61227071
+30,USDC,1h,-0.00451013
+31,USDC,24h,-0.0091214
+32,USDC,7d,-0.00268429
+33,USDC,30d,0.00123097
+34,USDC,60d,-0.00648345
+35,USDC,90d,-0.05136791
+36,XRP,1h,0.7355271
+37,XRP,24h,-7.44079981
+38,XRP,7d,27.20821109
+39,XRP,30d,18.75755357
+40,XRP,60d,12.15364202
+41,XRP,90d,12.55277717
+42,Toncoin,1h,-0.27356977
+43,Toncoin,24h,0.90769418
+44,Toncoin,7d,0.28774823
+45,Toncoin,30d,4.0117818
+46,Toncoin,60d,13.87159322
+47,Toncoin,90d,17.66990454
+48,Dogecoin,1h,-0.10793892
+49,Dogecoin,24h,-3.79069891
+50,Dogecoin,7d,10.43866358
+51,Dogecoin,30d,-0.87524439
+52,Dogecoin,60d,-20.50904096
+53,Dogecoin,90d,-22.96447625
+54,Cardano,1h,-0.15481303
+55,Cardano,24h,-4.64789692
+56,Cardano,7d,6.35651439
+57,Cardano,30d,13.9195265
+58,Cardano,60d,-9.75911043
+59,Cardano,90d,-10.36221268
+60,TRON,1h,0.3776941
+61,TRON,24h,0.21554951
+62,TRON,7d,-0.40824795
+63,TRON,30d,16.82851229
+64,TRON,60d,10.88738576
+65,TRON,90d,21.629335
+66,Avalanche,1h,0.3458007
+67,Avalanche,24h,-3.85822415
+68,Avalanche,7d,6.14501706
+69,Avalanche,30d,4.14287585
+70,Avalanche,60d,-24.42316865
+71,Avalanche,90d,-23.52692473
+72,Shiba Inu,1h,0.03732602
+73,Shiba Inu,24h,-9.50287424
+74,Shiba Inu,7d,3.96725852
+75,Shiba Inu,30d,-2.96536826
+76,Shiba Inu,60d,-28.26819539
+77,Shiba Inu,90d,-25.29827974
+78,Polkadot,1h,0.16974952
+79,Polkadot,24h,-4.58078403
+80,Polkadot,7d,2.32720597
+81,Polkadot,30d,8.0264836
+82,Polkadot,60d,-12.08984682
+83,Polkadot,90d,-10.05065815
+84,Chainlink,1h,0.56297105
+85,Chainlink,24h,-3.19016207
+86,Chainlink,7d,7.6367747
+87,Chainlink,30d,0.48200759
+88,Chainlink,60d,-18.98660095
+89,Chainlink,90d,-2.94233932
+90,Bitcoin Cash,1h,0.07492067
+91,Bitcoin Cash,24h,1.67097859
+92,Bitcoin Cash,7d,9.98769559
+93,Bitcoin Cash,30d,1.64254738
+94,Bitcoin Cash,60d,-20.95082067
+95,Bitcoin Cash,90d,-20.21554654
+96,NEAR Protocol,1h,0.46069621
+97,NEAR Protocol,24h,-2.50813143
+98,NEAR Protocol,7d,21.91299323
+99,NEAR Protocol,30d,32.36088654
+100,NEAR Protocol,60d,-22.58601464
+101,NEAR Protocol,90d,7.87558449
+102,UNUS SED LEO,1h,-0.15790992
+103,UNUS SED LEO,24h,0.50647532
+104,UNUS SED LEO,7d,-0.62375263
+105,UNUS SED LEO,30d,1.2055345
+106,UNUS SED LEO,60d,-1.5179492
+107,UNUS SED LEO,90d,-0.23936875
+108,Dai,1h,0.01067611
+109,Dai,24h,-0.01476323
+110,Dai,7d,-0.01368066
+111,Dai,30d,0.00045921
+112,Dai,60d,-0.01534593
+113,Dai,90d,-0.02220774
+114,Litecoin,1h,0.11649863
+115,Litecoin,24h,-2.012709
+116,Litecoin,7d,3.9432119
+117,Litecoin,30d,-0.36920469
+118,Litecoin,60d,-13.77265367
+119,Litecoin,90d,-12.52029096
