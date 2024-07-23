@@ -10,6 +10,13 @@ import matplotlib.pyplot as plt
 
 # df = pd.DataFrame()
 
+def max_index(): # function to retrieve max index of current data
+    if os.path.isfile('coinmarketapi4_agg.csv'): # if file exists
+        current_data = pd.read_csv('coinmarketapi4_agg.csv') # read to df
+        if not current_data.empty: # if there is data in csv
+            return current_data.index.max() + 1 # add 1 to maximum current index
+    return 0 # if df is not populated with data then start from beginning, 0
+
 def run_api():
     global df # declares it as global variable
     global df3
@@ -43,6 +50,8 @@ def run_api():
                 'quote.USD.percent_change_30d', 
                 'quote.USD.percent_change_60d', 
                 'quote.USD.percent_change_90d']].mean()
+    
+    
     df3 = df3.stack() # converts cols to rows for better visualisation
     
     # print(type(df2)) # checking type for series
@@ -69,20 +78,22 @@ def run_api():
                                                                   'quote.USD.percent_change_90d'],
                                                                 ['1h', '24h', '7d', '30d', '60d', '90d'])
     
-    if not os.path.isfile('coinmarketapi2.csv'):
-        df.to_csv('coinmarketapi2.csv', header='column_names')
+    df3.index += max_index() 
+    
+    if not os.path.isfile('coinmarketapi4.csv'):
+        df.to_csv('coinmarketapi4.csv', header='column_names')
     else:
-        df.to_csv('coinmarketapi2.csv', mode='a', header=False) # appending new data every minute to csv file
+        df.to_csv('coinmarketapi4.csv', mode='a', header=False) # appending new data every minute to csv file
 
-    # if not os.path.isfile('coinmarketapi2_agg.csv'):
-    #     df2.to_csv('coinmarketapi2_agg.csv', header='column_names')
+    # if not os.path.isfile('coinmarketapi4.csv'):
+    #     df2.to_csv('coinmarketapi4.csv', header='column_names')
     # else:
-    #     df2.to_csv('coinmarketapi2_agg.csv', mode='a', header=False) # appending new data every minute to csv file 
+    #     df2.to_csv('coinmarketapi4.csv', mode='a', header=False) # appending new data every minute to csv file 
         
-    if not os.path.isfile('coinmarketapi3_agg.csv'):
-        df3.to_csv('coinmarketapi3_agg.csv', header='column_names')
+    if not os.path.isfile('coinmarketapi4_agg.csv'):
+        df3.to_csv('coinmarketapi4_agg.csv', header='column_names')
     else:
-        df3.to_csv('coinmarketapi3_agg.csv', mode='a', header=False) # appending new data every minute to csv file     
+        df3.to_csv('coinmarketapi4_agg.csv', mode='a', header=False) # appending new data every minute to csv file     
          
 
 for i in range(2): # testing, up to 333 data retrievals per day
